@@ -1,2 +1,3 @@
 # First-Peek
-Checking it ou
+Checking it out
+Now editing the Readme.md
